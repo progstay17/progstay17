@@ -1,4 +1,4 @@
-![Ghifarion banner](https://raw.githubusercontent.com/progstay17/about/main/assets/ghifarion-banner.svg)
+![Ghifarion banner](https://raw.githubusercontent.com/progstay17/progstay17/main/assets/ghifarion-banner.svg)
 
 <h1 align="center">Ghifarion</h1>
 <p align="center"><strong>Engineering Intelligence. Building Legacy.</strong></p>
