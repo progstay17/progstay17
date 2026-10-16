@@ -52,6 +52,14 @@ I work at the intersection of **AI engineering, intelligent automation, and soft
   </tr>
 </table>
 
+## Brand Assets
+
+- [Ghifarion banner](./assets/ghifarion-banner.svg)
+- [Brand tokens (JSON)](./assets/brand-tokens.json)
+- [Contribution guidelines](./CONTRIBUTING.md)
+
+Use these shared assets to keep future Ghifarion pages and projects visually consistent.
+
 ## Working Philosophy
 
 > Build with curiosity. Automate with intention. Engineer for real-world impact.
