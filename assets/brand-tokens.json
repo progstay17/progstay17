@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "brand": "Ghifarion",
+  "tagline": "Engineering Intelligence. Building Legacy.",
+  "language": "en",
+  "colors": {
+    "background": "#090817",
+    "surface": "#121027",
+    "elevated": "#1B1736",
+    "primary": "#8B5CF6",
+    "secondary": "#4263FF",
+    "accent": "#C4B5FD",
+    "text": "#F5F3FF",
+    "muted": "#A8A1C2",
+    "border": "#302747",
+    "success": "#34D399",
+    "warning": "#FBBF24",
+    "error": "#FB7185"
+  },
+  "gradients": {
+    "primary": "linear-gradient(120deg, #C4B5FD 0%, #8B5CF6 48%, #4263FF 100%)"
+  },
+  "typography": {
+    "tone": [
+      "precise",
+      "forward-looking",
+      "technically grounded"
+    ],
+    "headlineStyle": "short, confident, engineering-led",
+    "bodyStyle": "clear, practical, no inflated claims"
+  },
+  "visualDirection": {
+    "theme": "dark futuristic",
+    "motifs": [
+      "neural networks",
+      "orbital paths",
+      "connected nodes",
+      "subtle electric glow"
+    ],
+    "avoid": [
+      "fake usage metrics",
+      "unverified performance claims",
+      "decorative clutter"
+    ]
+  }
+}
