@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://progstay17.github.io/sitemap.xml
+Sitemap: https://progstay17.github.io/progstay17/sitemap.xml
